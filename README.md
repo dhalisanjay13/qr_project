@@ -8,6 +8,6 @@ https://mlocati.github.io/articles/php-windows-imagick.html
 - Run __php artisan storage:link__
 
 
-Admin Details
-username => admin@admin.com
-password => password
+Admin Details username => admin@admin.com password => password
+
+Local Server QR code not showing in mail. Will show on live server.
