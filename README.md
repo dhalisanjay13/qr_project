@@ -6,3 +6,8 @@ https://mlocati.github.io/articles/php-windows-imagick.html
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - Run __php artisan storage:link__
+
+
+Admin Details
+username => admin@admin.com
+password => password
